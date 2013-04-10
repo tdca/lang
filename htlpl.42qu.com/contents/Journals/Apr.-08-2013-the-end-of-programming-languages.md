@@ -8,7 +8,7 @@
 　　
   * 微软现在在力推F#，一个基于OCaml的.net CLR上的函数式编程语言，Visual Studio里面已经集成了进来，C#也从中汲取了不少精华。
 　　
-  * GitHub有一个项目（https://github.com/coffee-js/languages/issues），是一些国内的编程语言理论爱好者开的，利用issue来作为论坛，其中就有很多想法来创造下一代的编程语言。
+  * GitHub有一个[项目](https://github.com/coffee-js/languages/issues)，是一些国内的编程语言理论爱好者开的，利用issue来作为论坛，其中就有很多想法来创造下一代的编程语言。
 　　
 ******
 
